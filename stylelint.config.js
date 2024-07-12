@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  extends: ['stylelint-config-sass-guidelines', 'stylelint-config-prettier'],
+  extends: ['stylelint-config-sass-guidelines', 'stylelint-config-standard'],
   rules: {
     'max-nesting-depth': [
       2,
