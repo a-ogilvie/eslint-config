@@ -1,5 +1,17 @@
 # Changelog
 
+## 5.4.0
+
+- Upgrade `stylelint` version to `16.7.0`
+- Upgrade `stylelint-config-sass-guidelines` version to `12.0.0`
+- Remove `stylelint-config-prettier`
+- Add `stylelint-config-standard` version `36.0.1`
+- Upgrade `husky` version to `9.0.11`
+- Update `lint-staged` version to `15.2.7`
+- Update `eslint` version to `8.57.0`
+- Update `eslint-config-prettier` version to `9.1.0`
+- Update `prettier` version to `3.3.2`
+
 ## 5.3.0
 
 - Upgrade `eslint-config-prettier` version to `9.0.0`
